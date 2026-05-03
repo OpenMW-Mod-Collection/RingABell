@@ -10,6 +10,8 @@ Load order doesn't matter.
 
 - [Impact Effects](https://www.nexusmods.com/morrowind/mods/55508)
 
+Also supports Tamriel_Data.
+
 ## Credits
 
 **Sosnoviy Bor** - Author  

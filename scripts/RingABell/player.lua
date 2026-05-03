@@ -14,6 +14,15 @@ local bells = {
     ["active_6th_bell_04"] = true,
     ["active_6th_bell_05"] = true,
     ["active_6th_bell_06"] = true,
+    ["t_de_setind_f_bellstand_01"] = true,
+    ["t_de_setind_f_bellstand_02"] = true,
+    ["t_de_setind_f_bellstand_03"] = true,
+    ["t_de_setind_f_bellstand_04"] = true,
+    ["t_de_setind_f_bellstand_05"] = true,
+    ["t_de_setind_f_bellstand_06"] = true,
+    ["t_de_setind_f_bellstand_07"] = true,
+    ["tr_act_m2-69_bell"] = true,
+    ["tr_m3_oe_act_bell"] = true,
 }
 
 ---@param obj GameObject
