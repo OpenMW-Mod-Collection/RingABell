@@ -20,4 +20,5 @@ Also supports Tamriel_Data.
 ## Credits
 
 **Sosnoviy Bor** - Author  
+**Leapo** - Ideas for integrations  
 **C3pa** - Original idea
