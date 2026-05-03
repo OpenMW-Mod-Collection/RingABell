@@ -8,12 +8,14 @@ deps.checkAll("Ring a Bell", { {
 } })
 
 local bells = {
-    ["active_6th_bell_01"] = true,
-    ["active_6th_bell_02"] = true,
-    ["active_6th_bell_03"] = true,
-    ["active_6th_bell_04"] = true,
-    ["active_6th_bell_05"] = true,
-    ["active_6th_bell_06"] = true,
+    -- vanilla
+    ["active_6th_bell_01"]         = true,
+    ["active_6th_bell_02"]         = true,
+    ["active_6th_bell_03"]         = true,
+    ["active_6th_bell_04"]         = true,
+    ["active_6th_bell_05"]         = true,
+    ["active_6th_bell_06"]         = true,
+    -- tamriel data
     ["t_de_setind_f_bellstand_01"] = true,
     ["t_de_setind_f_bellstand_02"] = true,
     ["t_de_setind_f_bellstand_03"] = true,
@@ -21,8 +23,14 @@ local bells = {
     ["t_de_setind_f_bellstand_05"] = true,
     ["t_de_setind_f_bellstand_06"] = true,
     ["t_de_setind_f_bellstand_07"] = true,
-    ["tr_act_m2-69_bell"] = true,
-    ["tr_m3_oe_act_bell"] = true,
+    ["tr_act_m2-69_bell"]          = true,
+    ["tr_m3_oe_act_bell"]          = true,
+    -- bell towers of vvardenfell
+    ["dm_ex_sur_bell"]             = true,
+    ["dm_ex_nosnd_bell"]           = true,
+    ["dm_ex_balm2_bell"]           = true,
+    ["dm_ex_mora_bell"]            = true,
+    ["dm_gna_bell"]                = true,
 }
 
 ---@param obj GameObject
