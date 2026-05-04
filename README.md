@@ -20,5 +20,6 @@ Also supports Tamriel_Data.
 ## Credits
 
 **Sosnoviy Bor** - Author  
-**Leapo** - Ideas for integrations  
+**Leapo** - Code contributions  
+**Markond** - Bell tower SFX  
 **C3pa** - Original idea

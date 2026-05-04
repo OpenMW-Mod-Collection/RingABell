@@ -5,4 +5,12 @@ return {
     ["furn_6th_bell4.nif"] = "Metal",
     ["furn_6th_bell5.nif"] = "Metal",
     ["furn_6th_bell6.nif"] = "Metal",
+    ["tr_act_ind_bell_01.nif"] = "Metal",
+    ["tr_act_ind_bell_02.nif"] = "Metal",
+    ["tr_act_ind_bell_03.nif"] = "Metal",
+    ["tr_act_ind_bell_04.nif"] = "Metal",
+    ["tr_act_ind_bell_05.nif"] = "Metal",
+    ["tr_act_ind_bell_06.nif"] = "Metal",
+    ["tr_act_ind_bell_07.nif"] = "Metal",
+    ["dm_bell_6th.nif"] = "Metal",
 }
