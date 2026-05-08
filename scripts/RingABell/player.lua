@@ -59,6 +59,7 @@ local belltowers = {
 ---@param var any
 ---@param res RayCastingResult
 I.impactEffects.addHitObjectHandler(function(obj, var, res)
+    if not obj or not obj:isValid() then return end
     if bells[obj.recordId] then
         obj:activateBy(self)
     elseif belltowers[obj.recordId] then

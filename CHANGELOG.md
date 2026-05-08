@@ -1,5 +1,9 @@
 # Ring a Bell (OpenMW)
 
+## 1.2.3
+
+- Fixed error when hitting ground
+
 ## 1.2.2
 
 - Improved Tamriel_Data support
