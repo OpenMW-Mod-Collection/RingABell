@@ -44,6 +44,8 @@ local bells = {
     ["tr_m1_bthalcrystal_act4"] = true,
     ["tr_m1_bthalcrystal_act5"] = true,
     ["tr_m1_bthalcrystal_act6"] = true,
+    -- OAAB
+    ["ab_furn_6thgong01"]       = true,
 }
 
 local belltowers = {

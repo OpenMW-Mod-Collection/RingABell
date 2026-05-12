@@ -7,6 +7,7 @@ You have a Sixth House Bell Hammer, yet can't ring bells with it? Well, not anym
 ## Supported Mods
 
 - [Tamriel_Data](https://www.nexusmods.com/morrowind/mods/44537)
+- [OAAB_Data](https://www.nexusmods.com/morrowind/mods/49042)
 - [Bell Towers of Vvardenfell](https://www.nexusmods.com/morrowind/mods/52523)
 
 ## Requirements

@@ -1,8 +1,12 @@
 # Ring a Bell (OpenMW)
 
+## 1.2.4
+
+- Added support for OAAB_Data
+
 ## 1.2.3
 
-- Fixed error when hitting ground
+- Fixed an error when hitting ground or water
 
 ## 1.2.2
 

@@ -16,4 +16,5 @@ return {
     ["tr_active_gong_01.nif"]      = "Metal",
     ["tr_active_gong_02.nif"]      = "Metal",
     ["tr_act_dwe_bthalcrystl.nif"] = "Stone",
+    ["dk_6th_gong.nif"]            = "Metal",
 }
